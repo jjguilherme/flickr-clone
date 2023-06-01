@@ -1,2 +1,2 @@
 # flickr-clone
-Projeto front end
+a clone of flickr using html and css only, for educational purposes
